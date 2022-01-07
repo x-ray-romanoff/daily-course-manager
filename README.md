@@ -1,0 +1,1 @@
+# daily-course-manager
