@@ -1,27 +1,28 @@
 
-Russian teax is [here](https://github.com/x-ray-romanoff/daily-course-manager/wiki/Daily-course-Manager)
+Russian text is [here](https://github.com/x-ray-romanoff/daily-course-manager/wiki/Daily-course-Manager)
 
 **DAILY COURSE MANAGER** (application)
 is created for education managers, teachers, creators practicing the creation and operation of training course programs.
 
-What is a coursework curriculum?
+*What is a coursework curriculum?*
+
 This is a collection of artifacts of a training project, + a scheduled event - a lesson + participants + a teacher-student role model.
 
-training realizes the ultimate goal - the transfer of the above artifacts + technologies of their use from the teacher (course administrator) to the student (course user).
+Training realizes the ultimate goal - the transfer of the above artifacts + technologies of their use from the teacher (course administrator) to the student (course user).
 
 The Daily course aims to automate the activities of the Curriculum Administrator using the tools (functions) listed below.
 
-*** Templates
-
 Key features
-1. Preparation of the course
+1. Production (Work with content)
 1.1. Maintaining a register of links, a tree of terms, articles, artifacts.
 
 1.2. Artifact specification
 
 1.3. Automatic assembly of presentations and other accompanying / preparatory documentation.
 
-2. Work with contingent
+1.4. Multi-sourced import and parsing
+
+2. Planning the launch (Work with contingent)
 2.1. CRM functions: letter templates, assigning properties to contacts - linking to an academic course, mailing by templates and properties.
 
 2.2. Integration with Outlook (iOS / W) assigning properties to letters from clauses 1.1-1.2. (letter = artifact of the training project).
