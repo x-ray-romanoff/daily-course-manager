@@ -13,7 +13,8 @@ Training realizes the ultimate goal - the transfer of the above artifacts + tech
 The Daily course aims to automate the activities of the Curriculum Administrator using the tools (functions) listed below.
 
 Key features
-1. Production (Work with content)
+*1. Production (Work with content)*
+
 1.1. Maintaining a register of links, a tree of terms, articles, artifacts.
 
 1.2. Artifact specification
@@ -22,14 +23,14 @@ Key features
 
 1.4. Multi-sourced import and parsing
 
-2. Planning the launch (Work with contingent)
+*2. Planning the launch (Work with contingent)*
 2.1. CRM functions: letter templates, assigning properties to contacts - linking to an academic course, mailing by templates and properties.
 
 2.2. Integration with Outlook (iOS / W) assigning properties to letters from clauses 1.1-1.2. (letter = artifact of the training project).
 
 2.3. Schedule of events, invitations and notifications. Distribution of preliminary materials.
 
-3. Conducting a lesson
+*3. Conducting a lesson*
 3.1. Video communications, events - everything is like artifacts with properties.
 
 3.2. Dictation
@@ -46,7 +47,7 @@ Key features
 
 3.5. Self-paced courses and homework
 
-4. Accounting for course artifacts as intangible assets
+*4. Accounting for course artifacts as intangible assets*
 References 1.1.-1.2. - all pages involved in educational projects are intangible assets with a special life cycle.
 
 Accordingly, for correct accounting, the Accounting Department must receive data on the costs of developing the NMC (which subsequently form the OS and are put into operation). As soon as a project for a course is created on the basis of the existing, or on the newly developed curriculum, DAILY COURSE MANAGER automatically sends the accounting system the data necessary for the formation of correct postings. And it produces throughout the entire life cycle. As a result, all expenses and future revenues in relation to the provision of educational services are accounted for transparently.
