@@ -1,54 +1,34 @@
-# daily-course-manager
+tree of terms, articles, artifacts.
 
-Clone this wiki locally
-https://github.com/x-ray-romanoff/daily-course-manager.wiki.git
-by Roman Semionoff
-Краткое описание
-Приложение создано для руководителей, преподавателей, креаторов практикующих создание и эксплуатацию образовательных практик и мероприятий.
+1.2. Artifact specification
 
-Что такое курсовая программа обучения?
-Это совокупность артефактов учебного проекта, + спаланированное событие - урок + участники + ролевая модель "учитель - ученик".
+1.3. Automatic assembly of presentations and other accompanying / preparatory documentation.
 
-Программа обучения реализует конечную цель - передачу вышеуказанных артефактов + технологии их использования от учителя (администратор курса) к ученику (пользователь курса).
+2. Work with contingent
+2.1. CRM functions: letter templates, assigning properties to contacts - linking to an academic course, mailing by templates and properties.
 
-Daily course призван автоматизировать деятельность Администратора учебного курса с помощью средств (функций) перечисленных ниже.
+2.2. Integration with Outlook (iOS / W) assigning properties to letters from clauses 1.1-1.2. (letter = artifact of the training project).
 
-Ключевые функции
-1. Подготовка курса
-1.1. Ведение реестра ссылок, дерева терминов, статей, артефактов.
+2.3. Schedule of events, invitations and notifications. Distribution of preliminary materials.
 
-1.2. Спецификация артефактов
+3. Conducting a lesson
+3.1. Video communications, events - everything is like artifacts with properties.
 
-1.3. Автоматическая сборка презентации и др. сопроводительной/подготовительной документации.
+3.2. Dictation
 
-2. Работа с контингентом
-2.1. CRM функции: шаблоны писем, присвоение контактам свойств - связь с уч.курсом, рассылка по шаблонам и свойствам.
+ a) "Eavesdropping" by the speech system during the lesson.
 
-2.2. Интеграция с Outlook (iOS/W) присвоение письмам свойств из п.1.1-1.2. (письмо = артефакт учебного проекта).
+ b) Recognition of key phrases from clauses 1.1.-1.2.
 
-2.3. Расписание ивентов, приглашения и оповещения. Рассылка предварительных материалов.
+ c) The program is automatically marked (progress of execution) as completed (such topics were discussed).
 
-3. Проведение урока
-3.1. Видеосвязь, ивенты - все как артефакты со свойствами.
+3.3. Conducting a lesson by a bot.
 
-3.2. Диктовка
+3.4. At the end of the knowledge, the system automatically sends accompanying documentation for the completed lesson (including the terms that were discussed, as well as statistics (progress)).
 
- а) "Подслушавание" системой речи во время урока.
+3.5. Self-paced courses and homework
 
- б) Распознавание ключевых фраз из п.1.1.-1.2.
+4. Accounting for course artifacts as intangible assets
+References 1.1.-1.2. - all pages involved in educational projects are intangible assets with a special life cycle.
 
- в) Программа автоматически помечается (прогресс выполнения) как завершенная (такие то темы обсудили).
-
-3.3. Проведение урока ботом.
-
-3.4. В конце заниятия система автоматически высылает сопроводительную документацию к пройденному занятию (в т.ч. термины, которые обсуждали, а также статистику (прогресс)).
-
-3.5. Самостоятельные курсы и домашние 
-
-4. Учет артефактов курса в качестве нематериальных ОС
-Ссылки 1.1.-1.2. - все страницы задействованные в образовательных проектах - нематериальные активы с особенным ЖЦ.
-
-Соответственно, Бухгалтерия, для корректного учета, должна получать данные о расходах на разработку НМЦ (которые в дальнейшем формируют ОС и вводятся в эксплуатацию). Как только создается проект проведения курса по имеющейся, или по вновь разрабатываемой учебной программе DAILY COURSE MANAGER автоматически отправляет бухгалтерской системе необходимые для формирования корректных проводок данные. И производит в течении всего ЖЦ. В итоге все расходы и будующие доходы в отношении оказания образовательных услуг учтены прозрачно.
-
-Компоненты
-команда
+Accordingly, for correct accounting, the Accounting Department must receive data on the costs of developing the NMC (which subsequently form the OS and are put into operation). As soon as a project for a course is created on the basis of the existing, or on the newly developed curriculum, DAILY COURSE MANAGER automatically sends the accounting system the data necessary for the formation of correct postings. And it produces throughout the entire life cycle. As a result, all expenses and future revenues in relation to the provision of educational services are accounted for transparently.
