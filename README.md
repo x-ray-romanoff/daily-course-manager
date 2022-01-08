@@ -1,7 +1,5 @@
 # daily-course-manager
 
-Курс Учебная Программа Образовательный проект Артефакт обучения Модель "Учитель - ученик" Администратор Пользователь
-
 Clone this wiki locally
 https://github.com/x-ray-romanoff/daily-course-manager.wiki.git
 by Roman Semionoff
