@@ -1,5 +1,7 @@
 
-DAILY COURSE MANAGER (application)
+Russian teax is [here](https://github.com/x-ray-romanoff/daily-course-manager/wiki/Daily-course-Manager)
+
+**DAILY COURSE MANAGER** (application)
 is created for education managers, teachers, creators practicing the creation and operation of training course programs.
 
 What is a coursework curriculum?
